@@ -39,32 +39,132 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<!--
+&lt;--- Readme.md Snippet without images Start ---&gt;
+## Tech Stack
+dhushyanth-h-m/react-graphql is built on the following main stack:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [GraphQL](http://graphql.org/) – Query Languages
+- [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Full tech stack [here](/techstack.md)
 
-### Code Splitting
+&lt;--- Readme.md Snippet without images End ---&gt;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+&lt;--- Readme.md Snippet with images Start ---&gt;
+## Tech Stack
+dhushyanth-h-m/react-graphql is built on the following main stack:
 
-### Analyzing the Bundle Size
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='AWS Amplify'/> [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Full tech stack [here](/techstack.md)
 
-### Making a Progressive Web App
+&lt;--- Readme.md Snippet with images End ---&gt;
+-->
+<div align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Tech Stack File
+![](https://img.stackshare.io/repo.svg "repo") [dhushyanth-h-m/react-graphql](https://github.com/dhushyanth-h-m/react-graphql)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|11<br/>Tools used|07/24/24 <br/>Report generated|
+|------|------|
+</div>
 
-### Advanced Configuration
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
+  <br>
+  <sub></sub>
+</td>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3">CSS 3</a></sub>
+  <br>
+  <sub></sub>
+</td>
 
-### Deployment
+</tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'>
+  <br>
+  <sub><a href="https://reactjs.org/">React</a></sub>
+  <br>
+  <sub>v18.2.0</sub>
+</td>
 
-### `npm run build` fails to minify
+</tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'>
+  <br>
+  <sub><a href="http://graphql.org/">GraphQL</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='AWS Amplify'>
+  <br>
+  <sub><a href="https://github.com/aws/aws-amplify">AWS Amplify</a></sub>
+  <br>
+  <sub>v6.0.24</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
+  <br>
+  <sub><a href="https://www.npmjs.com/">npm</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.17.0|03/29/24|Dhushyanth H M |MIT|N/A|
+|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v13.4.0|03/29/24|Dhushyanth H M |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|03/29/24|Dhushyanth H M |MIT|N/A|
+|[react-scripts](https://www.npmjs.com/react-scripts)|v5.0.1|03/29/24|Dhushyanth H M |MIT|N/A|
+
+<br/>
+<div align='center'>
+
+Generated via [Stack File](https://github.com/marketplace/stack-file)
+
